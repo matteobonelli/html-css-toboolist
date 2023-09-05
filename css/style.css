@@ -7,6 +7,7 @@
 body{
     font-size: 20px;
     background-color: #f6f8f9 ;
+    font-family: 'Ubuntu', sans-serif;
 }
 header{
     margin-bottom: 50px;
@@ -47,6 +48,52 @@ nav{
     font-size: 15px;
 }
 
+main{
+    padding: 30px 30px;
+    border: 1px solid #f6f8f9;
+    border-radius: 5px;
+}
+section{
+    padding: 20px;
+}
+h3{
+    font-weight: 900;
+}
+.check{
+    color: #64c0a9;
+    border: 2px solid #64c0a9;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+    height: 17px;
+    width: 17px;
+    text-align: center;
+    line-height: 14px;
+    margin-right: 2px;
+}
+.cross{
+    color: #ec5a50;
+    border: 2px solid #ec5a50;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+    height: 17px;
+    width: 17px;
+    text-align: center;
+    line-height: 14px;
+    margin-right: 2px;
+}
+.badge{
+    border: 1px solid transparent;
+    border-radius: 11px;
+    padding: 6px 9px;
+    font-size: 12px;
+}
+.tasks{
+    padding-top: 25px;
+}
 /* colors */
 
 .bg_gray{
@@ -92,4 +139,5 @@ nav{
     line-height: 0;
     display: inline-block;
     vertical-align: middle;
+    margin-right: 7px;
 }
