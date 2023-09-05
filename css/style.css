@@ -29,7 +29,7 @@ h1{
     margin: 0 auto;
 }
 nav{
-    padding: 10px;
+    padding: 17px;
     padding-left: 50px;
     border: 1px solid #f6f8f9;
     border-radius: 5px;
@@ -92,7 +92,8 @@ h3{
     font-size: 12px;
 }
 .tasks{
-    padding-top: 25px;
+    padding-top: 10px;
+    padding-bottom: 12px;
 }
 /* colors */
 
