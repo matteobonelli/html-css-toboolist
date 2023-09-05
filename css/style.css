@@ -6,9 +6,10 @@
 }
 body{
     font-size: 20px;
+    background-color: #f6f8f9 ;
 }
 header{
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     padding: 10px;
     padding-left: 20px;
 }
@@ -22,7 +23,29 @@ h1{
 .logo{
     min-width: 60px;
 }
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+nav{
+    padding: 10px;
+    padding-left: 50px;
+    border: 1px solid #f6f8f9;
+    border-radius: 5px;
+}
+.add-task-button{
+    border: 1px solid transparent;
+    border-radius: 5px ;
+    padding: 7px 15px;
+    font-size: 15px;
+}
 
+.add-section-button{
+    border: 1px solid grey;
+    border-radius: 5px ;
+    padding: 7px 15px;
+    font-size: 15px;
+}
 
 /* colors */
 
@@ -54,17 +77,11 @@ h1{
     color: #ffffff;
 }
 .gray_text{
-    color: #f6f8f9;
+    color: grey;
 }
 
 
-
-
-
-
-
-
-
+/* special symbol */
 .triangle-down {
     width: 0;
     height: 0;
