@@ -3,6 +3,33 @@
 .bg_gray{
     background-color: #f6f8f9;
 }
+.bg_blue{
+    background-color: #47adf1;
+}
+.bg_white{
+    background-color: #ffffff;
+}
+.bg_purple{
+    background-color: #9c72e4;
+}
+.bg_green{
+    background-color: #64c0a9;
+}
+.bg_orange{
+    background-color: #f29e33;
+}
+.bg_pink{
+    background-color: #d863a1;
+}
+.bg_light_green{
+    background-color: #b0c926;
+}
+.white_text{
+    color: #ffffff;
+}
+.gray_text{
+    color: #f6f8f9;
+}
 
 
 
